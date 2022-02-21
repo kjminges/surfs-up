@@ -12,10 +12,12 @@ After parsing the temperature data, we were able to create two data frames that 
 
 
 **June Temperature Statistics**
+
 ![june_temps](https://github.com/kjminges/surfs_up/blob/main/june_temps.png)
 
 
 **December Temperature Statistics**
+
 ![december_temps](https://github.com/kjminges/surfs_up/blob/main/december_temps.png)
 
 ## Conclusion
